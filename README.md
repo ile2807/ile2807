@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ile2807
 - 👀 I’m interested in Coding, Board games and Outdoor sports
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on small utility projects that do complicated stuff, but the output is boolean :D
+- 💞️ I’m looking to collaborate on small utility projects that do complicated stuff, yet the output is boolean :grin:
 - 📫 How to reach me, by email: ile2807@gmail.com
 
 <!---
